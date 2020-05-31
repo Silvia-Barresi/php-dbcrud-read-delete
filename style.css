@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+}
+
+#paganti{
+  margin: 2% 42%;
+}
+
+.pagante{
+  border: 1px solid #000;
+  width: 250px;
+  height: 150px;
+}
+
+h4, h1{
+  padding: 2%;
+}
+
+i{
+  margin-left: 90%;
+  margin-top: 1%;
+  cursor: pointer;
+}
